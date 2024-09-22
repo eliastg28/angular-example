@@ -1,0 +1,15 @@
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+}
+
+.success {
+  background-color: green;
+}
+
+.danger {
+  background-color: red;
+}
